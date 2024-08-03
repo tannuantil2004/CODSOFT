@@ -42,3 +42,19 @@ Score Tracking (Optional): Keep track of the user's and computer's scores formul
 Play Again: Ask the user if they want to play another round.
 
 User Interface: Design a user-friendly interface with clear instructions and feedback.
+
+TASK 5
+
+Contact Information: Store name, phone number, email, and address for each contact.
+
+Add Contact: Allow users to add new contacts with their details.
+
+View Contact List: Display a list of all saved contacts with names and phone numbers.
+
+Search Contact: Implement a search function to find contacts by name or phone number.
+
+Update Contact: Enable users to update contact details.
+
+Delete Contact: Provide an option to delete a contact.
+
+User Interface: Design a user-friendly interface for easy interaction.
